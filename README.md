@@ -5,12 +5,12 @@
 <br/>
 <div align="center">
     <h2 align="center">{PROJECT NAME}</h2>
-    <h3 align="center">Modelling Team, Data & Analytics (D&A)</h3>
+    <h3 align="center">{TEAM NAME}, Data & Analytics (D&A)</h3>
     <p align="center">
-        This project is in development, and should not be relied upon. Please do not use any code without consultation of Modelling Team (D&A). Be aware that whilst a significant part of the code has been quality assured, there remain large elements of the codebase which have not yet been.
+        This project is in development, and should not be relied upon. Please do not use any code without consultation of {TEAM NAME} (D&A). Be aware that whilst a significant part of the code has been quality assured, there remain large elements of the codebase which have not yet been.
         <br/>
-        <a href="https://github.com/NHSE-MMD/{REPO NAME}/issues">Report Bug</a>
-        <a href="https://github.com/NHSE-MMD/{REPO NAME}">Request Feature</a>
+        <a href="https://github.com/nhsengland/{REPO NAME}/issues">Report Bug</a>
+        <a href="https://github.com/nhsengland/{REPO NAME}">Request Feature</a>
     </p>
 </div>
 
